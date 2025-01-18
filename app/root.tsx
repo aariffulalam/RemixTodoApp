@@ -4,7 +4,7 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-} from "@remix-run/react";
+} from "@remix-run/react";// hello aarif 
 import type { LinksFunction } from "@remix-run/node";
 
 import "./tailwind.css";
